@@ -1,0 +1,7 @@
+D:\Users\tonwa\source\repos\IfcGDB\IfcGDB\obj\Debug\IfcGDB.csprojResolveAssemblyReference.cache
+D:\Users\tonwa\source\repos\IfcGDB\IfcGDB\obj\Debug\MainWindow.g.cs
+D:\Users\tonwa\source\repos\IfcGDB\IfcGDB\obj\Debug\UI\LoginPage.g.cs
+D:\Users\tonwa\source\repos\IfcGDB\IfcGDB\obj\Debug\App.g.cs
+D:\Users\tonwa\source\repos\IfcGDB\IfcGDB\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Users\tonwa\source\repos\IfcGDB\IfcGDB\obj\Debug\IfcGDB_MarkupCompile.cache
+D:\Users\tonwa\source\repos\IfcGDB\IfcGDB\obj\Debug\IfcGDB_MarkupCompile.lref
